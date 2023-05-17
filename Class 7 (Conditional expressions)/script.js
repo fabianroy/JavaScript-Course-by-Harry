@@ -4,7 +4,7 @@ if(a>=18 && a<=100){
   alert("You're eligible to vote.");
 }
 else if(a>100){
-  alert("I think you're DEAD!! Rest is peace.");
+  alert("I think you're DEAD!! Rest in peace.");
 }
 else{
   alert("You're ineligible to vote.");
