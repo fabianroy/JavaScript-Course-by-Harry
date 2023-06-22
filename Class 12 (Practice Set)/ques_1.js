@@ -1,5 +1,5 @@
 // Question #1
-// Write a program to print the marls of 4 stuents in an object using for loop.
+// Write a program to print the marks of 4 stuents in an object using for loop.
 
 let marks = {
   Nasif: 90,
