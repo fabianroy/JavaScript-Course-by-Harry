@@ -20,6 +20,7 @@ let y = "Mujtabir";
 console.log(`${x} is a friend of ${y}`);
 
 //Escape sequence character 
+
 let fruit = 'Bana\'na';
 console.log(fruit);
 console.log(fruit.length);
